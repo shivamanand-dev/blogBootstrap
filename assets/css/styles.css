@@ -1,0 +1,20 @@
+.hero {
+  padding-top: 70px;
+  background: rgb(41,41,41);
+  color: #fff;
+  padding-bottom: 100px;
+}
+
+.advertise {
+  height: 200px;
+}
+
+.headingHero {
+  margin: 20px;
+}
+
+.question {
+  margin: 10px 0;
+  border-bottom: 1px solid green;
+}
+
